@@ -1,7 +1,13 @@
 # Segmentation-challenge
 
 ### Getting started
-We have set up some sample code using the [Allen Institute's Cell Segmenter](http://allencell.org/segmenter.html) framework.
+
+A description of the overall challenge and the datasets can be found [here](https://docs.google.com/presentation/d/1Juoju0hh-ZxSVdx6FK-DjJGjZUksOBg3uPiQH-tBfEM/edit#slide=id.g70e21f1d70_0_89).  
+
+Guidance on the expected format of the segmentation output can be found in the following file: 
+[Guidance on deliverables.docx](https://github.com/IAWG-CSBC-PSON/Segmentation-challenge/files/6778338/Guidance.on.deliverables.docx)
+
+We have set up some sample code using the [Allen Institute's Cell and Structure Segmenter](https://allencell.org/segmenter.html) framework.
 
 The code is set up in Jupyter notebooks (readable in Jupyter Lab available within each instance during the hackathon).
 
